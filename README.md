@@ -8,7 +8,7 @@ Check out our paper on [biorXiv](https://www.biorxiv.org/content/early/2018/11/1
 * Ignore the warning: 'This notebook was not authored by Google.' Check 'Reset all runtimes before running' and click 'Run anyway'
 * Use Firefox or Google Chrome if you want to upload your images.
 
-Train or fine-tune your own model and segment your images [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matjesg/DeepFLaSH/blob/master/DeepFLaSH.ipynb)
+Train or fine-tune your own model and segment your images [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/delkind/DeepFLaSH/blob/master/DeepFLaSH.ipynb)
 
 You can find a comprehensive **user guide** [here](https://github.com/matjesg/DeepFLaSH/raw/master/user_guide.pdf).
 
